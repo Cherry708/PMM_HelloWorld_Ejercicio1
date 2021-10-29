@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="haz_click_aqu">Haz click aquí</string>
+    <string name="iphone">iPhone</string>
+    <string name="cursiva">Cursiva</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="fuente_seriff">Fuente Seriff</string>
+    <string name="texto_plano_abc">Texto Plano abc</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="android">Android</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="opcion_1">Opcion 1</string>
+</resources>
